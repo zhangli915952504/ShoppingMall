@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\libs\weibo_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c08fd28adfef77601dad81d6af9eff13b746f71">
+        <dex dex="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\build\intermediates\pre-dexed\debug\weibo_sdk-677c661921351cfff1d10e7da788095bcc07c55a.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\SDK\SDK-all\SDK-ALL\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-fb35fd2eb13d55e7bcdba330a0fc0b17d28553da.jar" />
+    </item>
+    <item
+        jar="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\libs\mta-sdk-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\build\intermediates\pre-dexed\debug\mta-sdk-1.0.0-ed94c18c5cc5bc09a6dd6736802e81c65a8247a7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\build\intermediates\pre-dexed\debug\classes-c1e54c30dc5b859e630f720f074061afa962ff91.jar" />
+    </item>
+    <item
+        jar="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af4cc326e6cd92f88db12298767e521743aedd36">
+        <dex dex="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\build\intermediates\pre-dexed\debug\classes-c3db62c51e7651ac0d25398a9bee12e498439926.jar" />
+    </item>
+    <item
+        jar="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\libs\universal-image-loader-1.5.6-with-src.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aafb5f491658277c1eb3cd9801b4fa0a8b971949">
+        <dex dex="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.5.6-with-src-788b3e3201493bc186f0b908dc5a1845b594de0c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\libs\jsoup-1.6.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f5794fa7847465283436bd9843045033971d0b9b">
+        <dex dex="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\build\intermediates\pre-dexed\debug\jsoup-1.6.3-bfd2c6a4a0800dcf55e0b22c258ce28d79117f77.jar" />
+    </item>
+    <item
+        jar="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\libs\open_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="89610089279bb62d799d8ccb6e14e5457a253d77">
+        <dex dex="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\build\intermediates\pre-dexed\debug\open_sdk-6d9aa4569ca0a688081d3d8a3f871e8b07c6810f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\libs\RennSDK-Android.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0ca209d760b28d73bbe444888cdd0c20eeaacbc3">
+        <dex dex="D:\AndroidOpenProjectTest\BaiDaYiShop1\app\build\intermediates\pre-dexed\debug\RennSDK-Android-220d39c947e3e9e84ef9e986ad1d23bd2c0a7e2b.jar" />
+    </item>
+
+</items>
